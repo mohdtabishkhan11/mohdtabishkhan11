@@ -56,14 +56,3 @@ Hi! I’m **Mohd Tabish Khan**, a passionate Software Engineer with a keen inter
 
 ---
 
-## 🖼️ Logo / Avatar
-
-> _“Aesthetically crafted to reflect my passion for clean code, logic, and creative development. (See portfolio for visual identity!)”_
-
----
-
-<p align="center">
-  <img src="https://mohdtabishkhan.in/avatar.png" alt="Mohd Tabish Khan Logo/Avatar" width="120" style="border-radius: 50%;">
-</p>
-
----
